@@ -1,0 +1,12 @@
+kapi door
+sandalye chair
+masa table
+bilgisayar computer
+pencere window
+gozluk glasses
+firin fridge
+fare mause
+klavye keyboard
+araba car
+lamba lamp
+tus button
